@@ -1,12 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=daliakhlaif.daliakhlaif" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=41B3A2&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Dalia+Khlaif!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=41B3A2&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dalia+Khlaif!;" />
 </h1>
-
-<h3 align="center" style="color:#D3D3D3;">✨ A passionate software developer from Palestine 🇵🇸 ✨</h3>
-
-<br/>
 
 <div align="center" style="color:#C8A2C8;">
  
@@ -26,6 +22,9 @@
   </a>
   <a href="https://linkedin.com/in/dalia-khlaif-04351224b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+      <a href="https://daliakhlaif.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-BB8FCE?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
